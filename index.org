@@ -1,16 +1,14 @@
-#+TITLE:     index.org
-#+AUTHOR:    slitvinov
+#+TITLE:     Litvinov's homepage
+#+AUTHOR:    Litvinov Sergey
 #+EMAIL:     slitvinov@gmail.com
-#+DATE:      2011-07-26 Tue
 #+DESCRIPTION:
 #+KEYWORDS:
 #+LANGUAGE:  en
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
-#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
-#+EXPORT_SELECT_TAGS: export
-#+EXPORT_EXCLUDE_TAGS: noexport
-#+LINK_UP:   
-#+LINK_HOME: 
-#+XSLT:
-My home page
+#+OPTIONS:   creator:nil author:nil <:nil
+#+OPTIONS:   toc:nil
+#+OPTIONS:   html-postamble:nil
+
+* Introduction
+* Papers
+* Files
+[[file:lammps/update.sh]]
